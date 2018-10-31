@@ -1,0 +1,3 @@
+1) how many apps outside of labs and lecture? hmmmmmmm well we had our projects so 3 and then also I've done a few extra maybe 3 or 4 extra
+2) why not more? I feel like I don't really have time with all the labs ad content to learn in school like i started a recipe app from youtube, I like youtube tutorials, but I havent touched it since the first day I started it bc Ive been doing stuff here in school like the labs but that was my next plan when I was done w them
+3) difference between state and props: state is the lifecycle of each component and props is the attributes they inherit from their parent components
